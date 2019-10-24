@@ -1,4 +1,4 @@
-In addition to the standard scripts that come with Create React App, you can see basic components with Storybook. There's a lot more we can add, but I'm just rendering the component to show what library is capable of :)
+In addition to the standard scripts that come with Create React App, you can see basic components with Storybook. There's a lot more we can add, but I'm just rendering the component to show what the library is capable of :)
 
 ### `yarn storybook`
 
